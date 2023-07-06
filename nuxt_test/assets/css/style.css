@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.nuxt-link-exact-active {
+  color: #df0000;
+}
+.language-lint {
+  color: rgb(31, 176, 82);
+  font-size: 30px;
+  margin: 0 10px;
+  text-decoration: none !important;
+}
